@@ -1,0 +1,66 @@
+#About {
+  background-color: rgb(255, 255, 255);
+  min-height: 100vh;
+  margin-top: 0%;
+  margin-bottom: 0%;
+  overflow: hidden;
+  
+}
+
+#About h1 {
+  padding-top: 3%;
+  margin-bottom: 0%;
+  text-align: center;
+  font-weight: 800;
+  color: rgb(0, 0, 0);
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 40px;
+  position: relative;
+  transition: transform 0.5s ease;
+}
+
+#About h1:hover {
+   
+    transition: 0.5s;
+}
+
+
+#About h1::after{
+  content: "";
+    position: absolute;
+    left: 0;
+    bottom: -5px;
+    width: 15.5%;
+    height: 3px;
+    background: rgb(0, 0, 0);
+    margin-left: 42%;
+}
+
+
+.container {
+  margin-top: 5%;
+  display: flex;
+  
+  justify-content: center;
+  
+  padding: 0 100px;
+}
+
+.Aleft,
+.Aright {
+  width: 50%;
+}
+
+/* Image Styling */
+.Aleft img {
+  width: 70%;
+    
+}
+
+/* Text Styling */
+.Aright p {
+    
+  font-size: 150%;
+  line-height: 1.5;
+  font-family: Arial, Helvetica, sans-serif;
+}
