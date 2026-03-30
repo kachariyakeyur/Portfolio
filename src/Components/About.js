@@ -10,22 +10,25 @@ function About() {
         </div>
 
         <div className="Aright">
-          <p>Hello, I am <strong>Keyur Kachariya</strong>.</p>
+          <p> Hello, I am <strong>Keyur Kachariya</strong>.</p>
           <p>
-            I am a student of Computer Science and Engineering at 
-            Indian Institute of Information Technology, Surat. 
+            I am a B.Tech Computer Science and Engineering student at
+            IIIT (Indian Institute of Information Technology), Surat, Gujarat. 
           </p>
-            <p>
-              etc etc etc
-             etc etc etc etc etc etc etc etc etc etc etc etc etc etc etc 
-              etc etc etc etc etc etc etc etc etc etc etc etc etc etc etc etc etc etc
-               etc etc etc etc etc etc etc etc etc etc etc etc etc etc etc etc etc etc
-                etc etc etc etc etc etc etc etc etc etc etc etc etc etc etc etc
-                 etc etc etc etc etc etc etc etc etc etc etc etc etc etc etc etc etc etc etc
-            
+          <p>
+            a passionate and dedicated web developer who enjoys creating modern, responsive, and user-friendly websites. I love turning ideas into real digital experiences through clean design and functional code.
+          </p> 
+          <p>
+            I have experience working with HTML, CSS, JavaScript, React.js, Node.js, Express.js, and MongoDB, and I’m continuously improving my skills in full-stack web development.
           </p>
         </div>
       </div>
+
+      <h1>Resume</h1>
+      <div className="resume">
+        <iframe className='resumeframe' title='Resume' src="about.png"></iframe>
+      </div>
+
     
   </div>
   )

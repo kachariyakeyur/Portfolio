@@ -1,6 +1,6 @@
 import React from 'react'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faLinkedin,faGithub,faInstagram } from '@fortawesome/free-brands-svg-icons'
+import { faLinkedin,faGithub,faXTwitter } from '@fortawesome/free-brands-svg-icons'
       
 function NavBar() {
   return (
@@ -21,7 +21,7 @@ function NavBar() {
             <ul className="img">
                 <li><a href="https://github.com/kachariyakeyur" target="_blank" rel="noreferrer"><FontAwesomeIcon icon={faLinkedin} /></a></li>
                 <li><a href="https://github.com/kachariyakeyur" target="_blank" rel="noreferrer"><FontAwesomeIcon icon={faGithub} /></a></li>
-                <li><a href="https://github.com/kachariyakeyur" target="_blank" rel="noreferrer"><FontAwesomeIcon icon={faInstagram} /></a></li>
+                <li><a href="https://github.com/kachariyakeyur" target="_blank" rel="noreferrer"><FontAwesomeIcon icon={faXTwitter} /></a></li>
             </ul>
         </div>
     </div>

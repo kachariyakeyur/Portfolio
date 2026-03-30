@@ -8,10 +8,10 @@ function Home() {
       <div className="hcontainer">
         <div className="lhome">
           <h1>Hi, I'm Keyur Kachariya</h1>
-        <h3>Frontend Developer</h3>
-        <p>
-          I build responsive and modern websites using React and JavaScript.etc...
-        </p>
+        <h3>Full Stack Developer</h3>
+        <h4>
+          Passionate about building responsive, modern, and interactive <br/> web applications that deliver great user experiences.
+        </h4>
         <a href='#Contact'>
           <button className="btn" ><strong>Contact Me</strong></button>
         </a>

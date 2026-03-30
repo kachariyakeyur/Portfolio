@@ -2,6 +2,7 @@ import React from 'react'
 import '../Contact.css'
 import { useState } from 'react';
 
+
 export default function ContactForm() {
   const [result, setResult] = useState("Submit your response !");
 
@@ -23,6 +24,7 @@ export default function ContactForm() {
   return (
     <div className='contact' id='Contact'>
       <div className="cheading"> <h1>Contact</h1></div>
+      
       <div className="form-container">
       <form className='form' onSubmit={onSubmit}>
           <div className="touch"> <h1>Get in Touch</h1></div>
