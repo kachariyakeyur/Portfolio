@@ -123,7 +123,7 @@ body{
 
 .home {
   
-  background-color: #0a0f1c;
+  background: #0a0f1c;
   color: white;
   min-height: 100vh;
   margin-top: 0%;
@@ -199,7 +199,7 @@ body{
   transition: 0.3s;
   border: 2px solid #000000;
   box-shadow: 0 0 5px #000000 ,
-              0 0 100px #00ffea6b;
+              0 0 1000px #00ffeaa6;
 
   
 }

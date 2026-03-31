@@ -12,7 +12,7 @@ function Projects() {
                 <div className="content">
                   <h2>Portfolio</h2> 
                   <p>Every information about me Skills , projects , ...</p>
-                  <a href="https://kachariyakeyur.github.io/TextAnalyzer_and_Editor/"><button className="pview"><h2>View</h2></button></a>
+                  <a href="https://kachariyakeyur.github.io/TextAnalyzer_and_Editor/" target='_blank'> <button className="pview"><h2>View</h2></button></a>
                 </div>
               </div>
               <div className="pcard">
@@ -20,7 +20,7 @@ function Projects() {
                 <div className="content">
                   <h2>Text Analyzer</h2> 
                   <p>Modify, Edit and Copy your text here...</p>
-                  <a href="https://kachariyakeyur.github.io/TextAnalyzer_and_Editor/"><button className="pview"><h2>View</h2></button></a>
+                  <a href="https://kachariyakeyur.github.io/TextAnalyzer_and_Editor/"  target='_blank'><button className="pview"><h2>View</h2></button></a>
                 </div>
               </div>
               <div className="pcard">
@@ -28,7 +28,7 @@ function Projects() {
                 <div className="content">
                   <h2>Latest News app</h2> 
                   <p>Find latest news and Explore more about that News...</p>
-                  <a href="https://keyurs-newsapp.vercel.app/"><button className="pview"><h2>View</h2></button></a>
+                  <a href="https://keyurs-newsapp.vercel.app/" target='_blank' ><button className="pview"><h2>View</h2></button></a>
                 </div>
               </div>
               <div className="pcard">
@@ -36,11 +36,11 @@ function Projects() {
                 <div className="content">
                   <h2>iNotebook</h2> 
                   <p>Add your Notes here and View, Update, Delete Secuirly...</p>
-                  <a href="https://keyurs-newsapp.vercel.app/"><button className="pview"><h2>View</h2></button></a>
+                  <a href="https://keyurs-newsapp.vercel.app/" target='_blank' ><button className="pview"><h2>View</h2></button></a>
                 </div>
               </div>
 
-            </div>
+             </div>
         </div>
     </>
   )

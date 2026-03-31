@@ -1,14 +1,15 @@
 #Projects{
-  background-color: rgb(255, 255, 255);
+  background-color: #0a0f1c;
   min-height: 100vh;
   margin-top: 0%;
   margin-bottom: 0%;
   overflow: hidden;
-  padding-bottom: 5%;
+  padding-bottom: 1.5%;
 
 }
 
 #Projects h1 {
+  margin: 0%;
   padding-top: 3%;
   margin-bottom: 0%;
   text-align: center;
@@ -17,7 +18,8 @@
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   font-size: 40px;
   position: relative;
-  
+  color: #ffffff;
+  text-shadow: 1px 1px 5px #ffffff;
   transition: transform 0.5s ease;
 }
 
@@ -34,7 +36,7 @@
     bottom: -5px;
     width: 15.5%;
     height: 3px;
-    background: rgb(0, 0, 0);
+    background: #ffffff;
     margin-left: 42%;
 }
 
@@ -53,13 +55,14 @@
     border-radius: 30px;
     overflow: hidden;
     transition: 0.5s;
-    border: #00ffea15 solid 1.5px;
+    border: #00ffea32 solid 1.5px;
     height: auto;
 }
 
 .pcard:hover{
-    box-shadow: 0 0 3px #000000,
-                9px 9px 20px #2e2e2e;
+    box-shadow: -1px 0px 4px #00ffea,
+                1px 0px 4px #00ffea,
+                0px 9px 20px #00ffea;
     
     transform: translateY(-10px) scale(1.03); 
 }
@@ -68,7 +71,7 @@
     width: 100%;
     height: 250px;    
     overflow: hidden;
-    background-color: #042359;
+    background: #0e1623;
 
   }
 

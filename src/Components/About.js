@@ -26,7 +26,7 @@ function About() {
 
       <h1>Resume</h1>
       <div className="resume">
-        <iframe className='resumeframe' title='Resume' src="about.png"></iframe>
+        <iframe className='resumeframe' title='Resume' src="Resume.pdf"></iframe>
       </div>
 
     

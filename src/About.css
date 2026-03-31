@@ -1,18 +1,21 @@
 #About {
-  background-color: rgb(255, 255, 255);
+  background-color: #0a0f1c;
   min-height: 100vh;
   margin-top: 0%;
   margin-bottom: 0%;
   overflow: hidden;
+  color: #ffffff;
   
 }
 
 #About h1 {
-  padding-top: 3%;
+  margin-top: 0px;
+  padding-top: 3.5%;
   margin-bottom: 0%;
   text-align: center;
   font-weight: 800;
-  color: rgb(0, 0, 0);
+  color: #ffffff;
+  text-shadow: 1px 1px 5px #ffffff;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   font-size: 40px;
   position: relative;
@@ -32,7 +35,7 @@
     bottom: -5px;
     width: 15.5%;
     height: 3px;
-    background: rgb(0, 0, 0);
+    background: #ffffff;
     margin-left: 42%;
 }
 
@@ -54,7 +57,9 @@
 /* Image Styling */
 .Aleft img {
   width: 70%;
-    
+
+  background: linear-gradient(to bottom, #ffffff 0%, #777e8f 50%, #0a0f1c 91%, #0a0f1c 100%);
+  border-radius: 15px;
 }
 
 /* Text Styling */
@@ -69,6 +74,8 @@
   display: flex;
   justify-content: center;
   padding: 3%;
+  color: #ffffff;
+  text-shadow: 1px 1px 5px #ffffff;
   
 }
 
@@ -77,5 +84,16 @@
   height: 500px;
   size-adjust: inherit;
   overflow: hidden;
+  border-radius: 15px;
+  transition: 0.5s;
+  border: #ffffff solid 1px;
+}
+
+.resumeframe:hover{
+  box-shadow: 0 0 3px #9c9c9c,
+                7px 7px 40px #ffffff80;
+
+   transform: translateY(-5px) scale(1.01); 
+    
 }
 
