@@ -19,9 +19,9 @@ function NavBar() {
         </div>
         <div className="right">
             <ul className="img">
-                <li><a href="https://github.com/kachariyakeyur" target="_blank" rel="noreferrer"><FontAwesomeIcon icon={faLinkedin} /></a></li>
-                <li><a href="https://github.com/kachariyakeyur" target="_blank" rel="noreferrer"><FontAwesomeIcon icon={faGithub} /></a></li>
-                <li><a href="https://github.com/kachariyakeyur" target="_blank" rel="noreferrer"><FontAwesomeIcon icon={faXTwitter} /></a></li>
+                <li><a href="https://github.com/kachariyakeyur" target="_blank" rel="noopener noreferrer"><FontAwesomeIcon icon={faLinkedin} /></a></li>
+                <li><a href="https://github.com/kachariyakeyur" target="_blank" rel="noopener noreferrer"><FontAwesomeIcon icon={faGithub} /></a></li>
+                <li><a href="https://github.com/kachariyakeyur" target="_blank" rel="noopener noreferrer"><FontAwesomeIcon icon={faXTwitter} /></a></li>
             </ul>
         </div>
     </div>
