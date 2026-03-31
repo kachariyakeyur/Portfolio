@@ -12,7 +12,7 @@ function Projects() {
                 <div className="content">
                   <h2>Portfolio</h2> 
                   <p>Every information about me Skills , projects , ...</p>
-                  <a href="https://kachariyakeyur.github.io/TextAnalyzer_and_Editor/" target='_blank' rel="noopener noreferrer"> <button className="pview"><h2>View</h2></button></a>
+                  <a href="https://keyurkachariya.vercel.app/" target='_blank' rel="noopener noreferrer"> <button className="pview"><h2>View</h2></button></a>
                 </div>
               </div>
               <div className="pcard">

@@ -19,9 +19,9 @@ function NavBar() {
         </div>
         <div className="right">
             <ul className="img">
-                <li><a href="https://github.com/kachariyakeyur" target="_blank" rel="noopener noreferrer"><FontAwesomeIcon icon={faLinkedin} /></a></li>
+                <li><a href="https://www.linkedin.com/in/keyur-kachariya-44a807324?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" rel="noopener noreferrer"><FontAwesomeIcon icon={faLinkedin} /></a></li>
                 <li><a href="https://github.com/kachariyakeyur" target="_blank" rel="noopener noreferrer"><FontAwesomeIcon icon={faGithub} /></a></li>
-                <li><a href="https://github.com/kachariyakeyur" target="_blank" rel="noopener noreferrer"><FontAwesomeIcon icon={faXTwitter} /></a></li>
+                <li><a href="https://x.com/KeyurKachariya7" target="_blank" rel="noopener noreferrer"><FontAwesomeIcon icon={faXTwitter} /></a></li>
             </ul>
         </div>
     </div>
