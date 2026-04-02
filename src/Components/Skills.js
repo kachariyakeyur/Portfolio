@@ -57,7 +57,7 @@ function Skills() {
       </div>
       <div className="sheading"> <h2>Other Skills</h2></div>
       <div className='sicons'>
-      <a href="https://github.com/kachariyakeyur" target="_blank" rel="noreferrer"><FontAwesomeIcon icon={faLeetcode} /></a>
+      <a href="https://leetcode.com/u/keyurkachariya/" target="_blank" rel="noreferrer"><FontAwesomeIcon icon={faLeetcode} /></a>
       </div>
     </div>
     

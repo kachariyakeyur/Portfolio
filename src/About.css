@@ -81,7 +81,7 @@
 
 .resumeframe{
   width: 50%;
-  height: 500px;
+  height: 780px;
   size-adjust: inherit;
   overflow: hidden;
   border-radius: 15px;
@@ -91,9 +91,7 @@
 
 .resumeframe:hover{
   box-shadow: 0 0 3px #9c9c9c,
-                7px 7px 40px #ffffff80;
-
-   transform: translateY(-5px) scale(1.01); 
+                7px 7px 40px #ffffff80; 
     
 }
 
