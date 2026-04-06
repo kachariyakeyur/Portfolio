@@ -7,14 +7,7 @@ function Projects() {
         <div className='projects' id='Projects'>
             <div className="pheading"> <h1>Projects</h1></div>
             <div className="pcard-partition">
-              <div className="pcard">
-                <div className="pimg"><img src="7867852.png" alt="Portfolio" /></div>
-                <div className="content">
-                  <h2>Portfolio</h2> 
-                  <p>Every information about me Skills , projects , ...</p>
-                  <a href="https://keyurkachariya.vercel.app/" target='_blank' rel="noopener noreferrer"> <button className="pview"><h2>View</h2></button></a>
-                </div>
-              </div>
+              
               <div className="pcard">
                 <div className="pimg"><img src="1843444819288bcb6652e7383c87a6b4_icon.png" alt="Text Analyzer" /></div>
                 <div className="content">
@@ -36,7 +29,7 @@ function Projects() {
                 <div className="content">
                   <h2>iNotebook</h2> 
                   <p>Add your Notes here and View, Update, Delete Secuirly...</p>
-                  <a href="https://keyurs-newsapp.vercel.app/" target='_blank' rel="noopener noreferrer" ><button className="pview"><h2>View</h2></button></a>
+                  <a href="https://i-notebook-live.vercel.app/login" target='_blank' rel="noopener noreferrer" ><button className="pview"><h2>View</h2></button></a>
                 </div>
               </div>
 
