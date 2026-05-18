@@ -166,10 +166,12 @@ body{
 
 /* BUTTON */
 .btn {
+  width: 25%;
+  height: 15%;
   padding: 10px 20px;
   background: #38bdf8;
   border: none;
-  border-radius: 5px;
+  border-radius: 60% 35%;
   cursor: pointer;
   transition: 0.3s;
   
