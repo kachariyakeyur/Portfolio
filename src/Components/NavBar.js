@@ -9,6 +9,7 @@ function NavBar() {
             <strong>Keyur's Portfolio</strong>
         </div>
         <div className="middle">
+            
             <ul className="menu">
                 <li><a href="#Home">Home</a></li>
                 <li><a href="#About">About</a></li>

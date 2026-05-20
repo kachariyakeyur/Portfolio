@@ -209,3 +209,129 @@ body{
 }
 
 
+
+@media (max-width: 910px){
+ .menu{
+  padding: 0px 55%;
+ }
+ .left{
+  font-size: 120% ;
+ }
+
+
+/* LEFT SIDE */
+.lhome h1 {
+  font-size: 2.2rem;
+}
+
+.lhome h3 {
+  font-size: 1.8rem;
+}
+
+.lhome h4 {
+  max-width: 500px;
+}
+
+/* BUTTON */
+.btn {
+  width: 40%;
+  height: 18%;
+}
+
+.rhome img {
+  width: 280px;
+}
+
+}
+
+@media (max-width: 768px){
+  .navbar{
+    width: 100%;
+    height:30px;
+    font-size: 70%;
+  }
+ .menu{
+  padding: 0px 55%;
+
+ }
+ .left{
+  font-size: 130% ;
+ }
+
+
+/* LEFT SIDE */
+.lhome h1 {
+  font-size: 1.5rem;
+}
+
+.lhome h3 {
+  font-size: 1.3rem;
+}
+
+.lhome h4 {
+  max-width: 500px;
+  font-size: 0.8rem;
+}
+
+/* BUTTON */
+.btn {
+  width: 30%;
+  height: 15%;
+  padding: 5px 10px;
+  font-size: 60%;
+  
+}
+
+.rhome img {
+  width: 250px;
+}
+
+
+
+}
+
+@media (max-width: 480px){
+  .navbar{
+    width: 100%;
+    height:30px;
+    font-size: 60%;
+  }
+ .menu{
+  padding: 0px 55%;
+
+ }
+ .left{
+  font-size: 120% ;
+ }
+
+
+/* LEFT SIDE */
+.lhome h1 {
+  font-size: 0.5rem;
+}
+
+.lhome h3 {
+  font-size: 1.3rem;
+}
+
+.lhome h4 {
+  max-width: 500px;
+  font-size: 0.8rem;
+}
+
+/* BUTTON */
+.btn {
+  width: 30%;
+  height: 15%;
+  padding: 5px 10px;
+  font-size: 60%;
+  
+}
+
+.rhome img {
+  width: 250px;
+}
+
+
+
+}

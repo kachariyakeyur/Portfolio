@@ -143,3 +143,93 @@
     transform: translateY(-1px) scale(1.05); 
 }
 
+
+@media (max-width: 480px){
+
+
+    .sheading h1{
+  
+
+  font-size: 30px;
+  
+  
+}
+
+
+.sheading h2{
+
+  font-size: 20px;
+
+  
+}
+
+    .skills-partition{
+
+    grid-template-columns: repeat(2, 1fr);  
+    gap: 30px;
+
+}
+
+.card{
+    background: #0e1623;
+    padding: 15px;
+    text-align: center;
+    border-radius: 25px;
+    transition: 0.5s;
+    border: #00ffea15 solid 1px;
+    width: 75%;
+    height: 150px;
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+.card h2{
+    font-size: 90%;
+    padding:0%;
+    color: #00ffea;
+    font-family: sans-serif;
+}
+
+.scontent{
+    padding: 8px;
+    gap: 10px;
+    margin-top: 0px;
+    display: flex;
+    flex-wrap: wrap;
+
+
+}
+
+.tabs{
+    background: #121e2a;
+    padding: 10px;
+    text-align: center;
+    border-radius: 15px;
+    transition: 0.3s;
+    border: #00ffea1a solid 1px;
+    font-family:sans-serif;
+    font-size: 40%;
+}
+
+
+.sicons {
+    align-items: center;
+    padding: 5%;
+    font-size: 250%;
+    gap:20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sicons a{
+    color: #00ffea;
+    border-radius: 15px;
+    padding: 5px;
+    transition: 0.3s;
+    background: #121c2d;
+    border: #00ffea15 solid 1px;
+}
+
+
+}

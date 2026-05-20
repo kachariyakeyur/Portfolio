@@ -132,3 +132,77 @@
   color: #ffffff;
   font-family:cursive;
 }
+
+@media (max-width: 480px){
+
+  .cheading h1{
+     padding-top: 3.5%;
+
+  font-size: 30px;
+ 
+  
+}
+
+.form{
+  width: 45%;
+  padding: 20px;
+  border-radius: 20px;
+
+}
+
+.touch h1{
+  margin: 0%;
+  padding: 0%;
+  color:  #38bdf8;
+  font-size: 25px;
+  font-family: 'Inter', 'Poppins', -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+.input{
+  background: #0e171f;
+  text-align:left;
+  font-size: 14px;
+  padding: 5px;
+  border-radius: 10px;
+  height: 30px;
+}
+
+
+.message{
+  resize: none;
+  height: 100px;
+}
+
+.form input::placeholder,
+.form textarea::placeholder {
+  color: #838383;
+  font-size: 14px;
+  font-family:cursive;
+}
+
+
+.submit {
+  padding: 7px;
+  background: #38bdf8;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: 0.3s;
+  font-size: 16px;
+  font-family:cursive;
+  font-weight: 900;
+}
+
+
+
+
+.thanks{
+  padding-top:0%;
+  margin: 0%;
+  font-size: 12px;
+  transition: 0.3s;
+  color: #ffffff;
+  font-family:cursive;
+}
+
+}

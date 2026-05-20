@@ -95,3 +95,55 @@
     
 }
 
+@media(max-width:768px) {
+
+  /* Text Styling */
+  .container {
+
+  padding: 0 10px;
+}
+
+.Aright p {
+  margin-top: 0%;
+  font-size: 100%;
+
+}
+
+.resumeframe{
+  width: 60%;
+  height: 550px;
+}
+
+  
+}
+
+@media (max-width: 480px){
+
+  #About h1 {
+  font-size: 30px;
+ 
+}
+   /* Text Styling */
+  .container {
+
+  padding: 0 10px;
+}
+.Aleft img {
+  width: 90%;
+
+  background: linear-gradient(to bottom, #ffffff 0%, #777e8f 50%, #0a0f1c 91%, #0a0f1c 100%);
+  border-radius: 15px;
+}
+
+.Aright p {
+  margin-top: 0%;
+  font-size: 60%;
+
+}
+
+.resumeframe{
+  width: 60%;
+  height: 400px;
+}
+
+}
