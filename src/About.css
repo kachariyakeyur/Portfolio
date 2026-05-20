@@ -1,6 +1,5 @@
 #About {
   background-color: #0a0f1c;
-  min-height: 100vh;
   margin-top: 0%;
   margin-bottom: 0%;
   overflow: hidden;
@@ -120,7 +119,7 @@
 @media (max-width: 480px){
 
   #About h1 {
-  font-size: 30px;
+  font-size: 20px;
  
 }
    /* Text Styling */
@@ -137,13 +136,13 @@
 
 .Aright p {
   margin-top: 0%;
-  font-size: 60%;
+  font-size: 50%;
 
 }
 
 .resumeframe{
   width: 60%;
-  height: 400px;
+  height: 300px;
 }
 
 }
